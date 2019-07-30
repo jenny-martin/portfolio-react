@@ -17,3 +17,21 @@ body {
   color: azure;
   font-size: 50px;
 }
+
+.NavBar {
+  display: flex;
+  flex-direction: column;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: 'Megrim', cursive;
+  font-size:20px;
+}
+
+.NavBar-link {
+  margin: 0 10px;
+}
+
+.NavBar-welcome {
+  color: darkolivegreen;
+  font-size: 16px;
+}
